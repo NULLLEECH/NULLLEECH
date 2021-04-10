@@ -14,11 +14,8 @@ Yes, that is wrong, I am dumb!
 <p>
 Happy programming.
 </p>
-<p>
           ________</br>
 |   /|   / ___    \    |~~~~~|  |~~~~~|</br>
 |  / |  / /   \    \   |        |</br>
 | /  |  \ \    \   /   |        |</br>
 |/   |   \/     |||    |        |</br>
-
-</p>
