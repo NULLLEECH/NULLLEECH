@@ -1,8 +1,3 @@
-<style>
-          logo {
-                    white-space: normal;
-          }
-</style>
 <body>
 <h1>
 I am @NULLLEECH
@@ -20,6 +15,7 @@ Yes, that is wrong, I am dumb!
 <p>
 Happy programming.
 </p>
+the following askii gravesite was ment to be a logo, but how HTML treats white-space.
 <p class="logo">
           ________</br>
 |   /|   / ___    \    |~~~~~|  |~~~~~|</br>
