@@ -8,9 +8,17 @@ This account is my attempt of beginning to learn git and archive the good and ba
 </p>
 <p>
 ANYWAYS...</br>
-You can say hi to me at <WHENIMUNFLAGGEDILLMAKEAANOTHERGODDAMNEMAILANDPUBLISHITHERE>.
+You can say hi to me at \<NULLLEACH@tuta.io\>.
 Yes, that is wrong, I am dumb!
 </p>
 <p>
 Happy programming.
+</p>
+<p>
+          ________</br>
+|   /|   / ___    \    |~~~~~|  |~~~~~|</br>
+|  / |  / /   \    \   |        |</br>
+| /  |  \ \    \   /   |        |</br>
+|/   |   \/     |||    |        |</br>
+
 </p>
