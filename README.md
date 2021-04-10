@@ -1,11 +1,8 @@
-<head>
-          <style>
-          logo 
-          {
+<style>
+          logo {
                     white-space: normal;
           }
-          </style>
-</head>
+</style>
 <body>
 <h1>
 I am @NULLLEECH
