@@ -1,3 +1,12 @@
+<head>
+          <style>
+          logo 
+          {
+                    white-space: normal;
+          }
+          </style>
+</head>
+<body>
 <h1>
 I am @NULLLEECH
 </h1>
@@ -14,8 +23,11 @@ Yes, that is wrong, I am dumb!
 <p>
 Happy programming.
 </p>
+<p class="logo">
           ________</br>
 |   /|   / ___    \    |~~~~~|  |~~~~~|</br>
 |  / |  / /   \    \   |        |</br>
 | /  |  \ \    \   /   |        |</br>
 |/   |   \/     |||    |        |</br>
+</p>
+</body>
